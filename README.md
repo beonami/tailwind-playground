@@ -15,7 +15,7 @@ Then, install the dependencies:
 
    ```bash
    # Using npm
-   npm install
+   npm install --also=dev
 
    # Using Yarn
    yarn
